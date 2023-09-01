@@ -1,1 +1,1 @@
-select  top 10 *  from stg_CC_TBLMEMBER
+select  top 1000 *  from stg_CC_TBLMEMBER
